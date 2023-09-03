@@ -14,7 +14,7 @@ object secondLargest {
       else if n2 < i then
         n2 = i
 
-    println(s"The Second largest number is: ${n2}")
+    println(s"The Second largest number is: $n2")
 
   def main(args: Array[String]): Unit = {
     val arr = readLine("Enter numbers into array: ").split(" ").map(_.toInt)
