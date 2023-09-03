@@ -1,4 +1,4 @@
-package in.olc.arraysEasy
+package in.olc.arrays.Easy
 
 import scala.annotation.tailrec
 import scala.io.StdIn.readLine

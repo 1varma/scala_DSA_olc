@@ -1,4 +1,4 @@
-package in.olc.arraysEasy
+package in.olc.arrays.Easy
 
 import scala.Int.MinValue
 import scala.io.StdIn.readLine
